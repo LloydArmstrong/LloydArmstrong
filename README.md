@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **All things containers, CI/CD pipelines and Cloud Infrastructure**
 
+This profile might get quite at times as I am currently using a private Gitlab instance.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lloyd-armstrong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lloyd-armstrong" height="30" width="40" /></a>
