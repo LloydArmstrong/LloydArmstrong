@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydarmstrong&label=Profile%20views&color=0e75b6&style=flat" alt="lloydarmstrong" /> </p>
 
-- 🔧 I’m currently working on **Containerising a bare-metal monolith 🏗**
+- 🔧 I’m currently working on **Moving 100's of microservice to Helm Deployments 🏗**
 
 - 🌱 I’m currently learning **GCP and AWS**
 
