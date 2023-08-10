@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydarmstrong&label=Profile%20views&color=0e75b6&style=flat" alt="lloydarmstrong" /> </p>
 
-- 🔧 I’m currently working on **Refactoring a Terraform-based project to using Terraform Modules and reducing overall costs🏗**
+- 🔧 I’m currently working on **Refactoring a project to using Terraform Modules and reducing overall GCP costs🏗**
 
 - 🌱 I’m currently learning **GCP and AWS**
 
