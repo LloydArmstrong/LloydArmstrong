@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydarmstrong&label=Profile%20views&color=0e75b6&style=flat" alt="lloydarmstrong" /> </p>
 
-- 🔧 I’m currently working on **Moving 100's of microservice to Helm Deployments 🏗**
+- 🔧 I’m currently working on **Refactoring a Terraform-based project to using Terraform Modules and reducing overall costs🏗**
 
 - 🌱 I’m currently learning **GCP and AWS**
 
 - 💬 Ask me about **All things containers, CI/CD pipelines and Cloud Infrastructure**
 
-This profile might get quite at times as I am currently using a private Gitlab instance.
+This profile might get quite at times as I am currently working using a private Gitlab instance.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
