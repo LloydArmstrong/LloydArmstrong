@@ -27,7 +27,7 @@ This profile might get quite at times as I am currently working using a private 
 <h3 align="left">Automation and CI/CD:</h3>
 <p align="left">
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="gitlab" width="40" height="40"/> </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
 </p>
   
 <h3 align="left">Containerisation and IaC:</h3>
