@@ -5,7 +5,7 @@
 
 - 🔧 I’m currently working on **Refactoring a project to using Terraform Modules and reducing overall GCP costs🏗**
 
-- 🌱 I’m currently learning **GCP and AWS**
+- 🌱 I’m currently learning **Kafka and Apache Flink**
 
 - 💬 Ask me about **All things containers, CI/CD pipelines and Cloud Infrastructure**
 
