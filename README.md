@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydarmstrong&label=Profile%20views&color=0e75b6&style=flat" alt="lloydarmstrong" /> </p>
 
-- 🔧 I’m currently working on **Refactoring a project to using Terraform Modules and reducing overall GCP costs🏗**
+- 🔧 I’m currently working on **Scaling up a Kafka Data Streaming Platform**
 
-- 🌱 I’m currently learning **Kafka and Apache Flink**
+- 🌱 I’m currently learning **Data Platform Engineering with Kafka, Debezium and Apache Flink**
 
 - 💬 Ask me about **All things containers, CI/CD pipelines and Cloud Infrastructure**
 
