@@ -1,6 +1,6 @@
 <h1 align="center">Howzit🤙 I'm Lloyd</h1>
-<h2 align="center">Tinkering with all things DevOps and Cloud ☁️ Automate Everyting 🤖</h2>
-<a href=https://lloydarmstrong.dev>lloydarmstrong.dev</a>
+<h2 align="center">Tinkering with all things DevOps and Cloud ☁️ Automate Everything 🤖</h2>
+<p align="center"><a href=https://lloydarmstrong.dev>lloydarmstrong.dev</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydarmstrong&label=Profile%20views&color=0e75b6&style=flat" alt="lloydarmstrong" /> </p>
 
