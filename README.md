@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng1FLv/giphy.gif" width="28px" alt="wave" />
   Lloyd Armstrong
 </h1>
 <h3 align="center">DevOps Engineer | Cloud Architect | Data Platform Enthusiast</h3>
